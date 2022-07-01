@@ -1,1 +1,1 @@
-Vue.filter('pokeNumber', number => ('000' + number).slice(-3));
+Vue.filter('pokeNumber', number => ('000' + number).slice(-3))
